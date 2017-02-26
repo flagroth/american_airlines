@@ -9,5 +9,5 @@ Instructions:
 
 -Main script in **R/bankinter_jcm.Rmd**.
 
--Output file is **bankinter_jcm.html**.
+-Output file is **R/bankinter_jcm.html**.
 
