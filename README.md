@@ -7,7 +7,6 @@ Instructions:
 
 -To download the data run the functions in **R/aux_functions.R**.
 
--Main script in **R/bankinter_jcm.Rmd**.
+-Main script in **R/american_airlines.Rmd**.
 
--Output file is **R/bankinter_jcm.html**.
 
