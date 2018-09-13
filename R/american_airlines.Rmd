@@ -1,5 +1,5 @@
 ---
-title: "American Airlines departure delay study case for Bankinter"
+title: "American Airlines departure delay study case"
 author: "Javier Cano Montero"
 date: "26 de febrero de 2017"
 output:
